@@ -30,9 +30,9 @@ rec1 = MkPersonRecord
     (MkAddress "School of Computing Science" 17 "Lilybank Gdns" "Glasgow" "G12 8QQ")
     557188
     [Green, Red]
-
+®
 rec2 = MkPersonRecord 
-    "Jeremy Singer" 
+    "Jeremy Singer" ®
     (MkAddress "School of Computing Science" 17 "Lilybank Gdns" "Glasgow" "G12 8QQ")
     42
     [Blue, Yellow]
